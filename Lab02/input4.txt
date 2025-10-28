@@ -1,0 +1,38 @@
+[
+  {
+    "Name": "Nguy\u1EC5n Minh E",
+    "ID": 24527777,
+    "Phone": "0908888888",
+    "Score1": 10,
+    "Score2": 9,
+    "Score3": 8,
+    "AvgScore": 0
+  },
+  {
+    "Name": "Nguy\u1EC5n Minh F",
+    "ID": 24529999,
+    "Phone": "0907777777",
+    "Score1": 5,
+    "Score2": 7,
+    "Score3": 9,
+    "AvgScore": 0
+  },
+  {
+    "Name": "Nguy\u1EC5n Minh E",
+    "ID": 24527777,
+    "Phone": "0908888888",
+    "Score1": 10,
+    "Score2": 9,
+    "Score3": 8,
+    "AvgScore": 0
+  },
+  {
+    "Name": "Nguy\u1EC5n Minh F",
+    "ID": 24529999,
+    "Phone": "0907777777",
+    "Score1": 5,
+    "Score2": 7,
+    "Score3": 9,
+    "AvgScore": 0
+  }
+]

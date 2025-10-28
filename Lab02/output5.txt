@@ -1,0 +1,36 @@
+Xếp hạng: 1
+Phim: Mai
+Giá vé chuẩn: 100.000đ
+Phòng chiếu: 2, 3
+Số vé bán: 3
+Số vé tồn: 57
+Tỷ lệ bán vé: 5,0%
+Doanh thu: 225.000đ
+----------------------------------------
+Xếp hạng: 2
+Phim: Đào, phở và piano
+Giá vé chuẩn: 45.000đ
+Phòng chiếu: 1, 2, 3
+Số vé bán: 0
+Số vé tồn: 90
+Tỷ lệ bán vé: 0,0%
+Doanh thu: 0đ
+----------------------------------------
+Xếp hạng: 3
+Phim: Gặp lại chị bầu
+Giá vé chuẩn: 70.000đ
+Phòng chiếu: 1
+Số vé bán: 0
+Số vé tồn: 30
+Tỷ lệ bán vé: 0,0%
+Doanh thu: 0đ
+----------------------------------------
+Xếp hạng: 4
+Phim: Tarot
+Giá vé chuẩn: 90.000đ
+Phòng chiếu: 3
+Số vé bán: 0
+Số vé tồn: 30
+Tỷ lệ bán vé: 0,0%
+Doanh thu: 0đ
+----------------------------------------
